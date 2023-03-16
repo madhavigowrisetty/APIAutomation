@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T21:09:23 EST" name="Default suite" finished-at="2023-03-10T21:09:29 EST" duration-ms="6578">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T21:09:23 EST" name="Default test" finished-at="2023-03-10T21:09:29 EST" duration-ms="6578">
+      <class name="apiAutomation.LibraryApiAutomation">
+        <test-method signature="addLibraryPOST(java.lang.String,java.lang.String)[pri:0, instance:apiAutomation.LibraryApiAutomation@16ec5519]" started-at="2023-03-10T21:09:23 EST" name="addLibraryPOST" data-provider="TestData" finished-at="2023-03-10T21:09:27 EST" duration-ms="4193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JAVA4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lfhd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLibraryPOST -->
+        <test-method signature="addLibraryPOST(java.lang.String,java.lang.String)[pri:0, instance:apiAutomation.LibraryApiAutomation@16ec5519]" started-at="2023-03-10T21:09:27 EST" name="addLibraryPOST" data-provider="TestData" finished-at="2023-03-10T21:09:28 EST" duration-ms="1132" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JAVA5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jfsfhf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLibraryPOST -->
+        <test-method signature="addLibraryPOST(java.lang.String,java.lang.String)[pri:0, instance:apiAutomation.LibraryApiAutomation@16ec5519]" started-at="2023-03-10T21:09:28 EST" name="addLibraryPOST" data-provider="TestData" finished-at="2023-03-10T21:09:29 EST" duration-ms="1175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JAVA6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jradgjre]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLibraryPOST -->
+      </class> <!-- apiAutomation.LibraryApiAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
